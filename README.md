@@ -16,6 +16,6 @@ Este proyecto forma parte del Challenge de Principiante en Programación del pro
 ## 📸 Capturas de pantalla
 
 > Ejemplo:
-> ![Formulario de ingregregar aquí imágenesso](ruta/a/imagen1.png)
-> ![Resultado del sorteo](ruta/a/imagen2.png)
+> ![Lista de amigos](challenge-amigo-secreto_esp-main/img/lista.jpg)
+> ![Resultado del sorteo](challenge-amigo-secreto_esp-main/img/resultado.jpg)
 
