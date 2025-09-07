@@ -15,7 +15,7 @@ Este proyecto forma parte del Challenge de Principiante en Programación del pro
 
 ## 📸 Capturas de pantalla
 
-> Puedes agregar aquí imágenes del proyecto en funcionamiento. Ejemplo:
-> ![Formulario de ingreso](ruta/a/imagen1.png)
+> Ejemplo:
+> ![Formulario de ingregregar aquí imágenesso](ruta/a/imagen1.png)
 > ![Resultado del sorteo](ruta/a/imagen2.png)
 
